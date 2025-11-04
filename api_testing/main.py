@@ -98,7 +98,7 @@ def main():
     test_store_api()
     test_user_api()
     
-    print("ПРОТЕСТИРОВАНО 8 ЗАПРОСОВ")
 
 if __name__ == "__main__":
+
     main()
